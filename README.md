@@ -1,2 +1,15 @@
 # alarm-reminder-app
-An application for reminds
+
+Android application for ...
+
+## Status
+
+🚧 Early development
+
+## Roadmap
+
+- [x] Initial setup
+- [ ] Local database
+- [ ] Authentication
+- [ ] Sync
+- [ ] Release v0.1
