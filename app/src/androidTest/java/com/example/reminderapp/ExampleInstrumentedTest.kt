@@ -1,4 +1,4 @@
-package com.example.remiderapp
+package com.example.reminderapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

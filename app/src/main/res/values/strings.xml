@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Remider App</string>
+    <string name="add_task">Add Task</string>
+    <string name="hint_task">Task…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="title_activity_new_task">NewTaskActivity</string>
 </resources>

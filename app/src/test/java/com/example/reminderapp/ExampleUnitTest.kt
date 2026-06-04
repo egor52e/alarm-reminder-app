@@ -1,4 +1,4 @@
-package com.example.remiderapp
+package com.example.reminderapp
 
 import org.junit.Test
 
